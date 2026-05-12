@@ -1,0 +1,6 @@
+# MySQL data (DO NOT TRACK)
+mysql-data/
+*.ibd
+*.frm
+*.log
+*.pid
